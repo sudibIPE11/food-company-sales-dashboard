@@ -29,7 +29,7 @@ This project is an interactive Excel-based sales dashboard developed to analyze 
 
 ## Dashboard Preview
 
-![Food Company Sales Dashboard](Screenshots/dashboard.png)
+![Food Company Sales Dashboard](Screenshot%202026-11-12%20015536.png)
 
 ## Key Metrics
 
